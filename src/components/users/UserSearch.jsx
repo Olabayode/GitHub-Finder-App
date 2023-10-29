@@ -60,5 +60,4 @@ function UserSearch() {
     </div>
   )
 }
-
 export default UserSearch
