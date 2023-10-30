@@ -11,7 +11,7 @@ function About() {
           {' '}
           React Front To Back
         </a>{' '}
-        Udemy course being completed by
+        Traversy Media course being completed by
         <strong>
           <a href='https://traversymedia.com'> Emmanuel Olure</a>
         </strong>
