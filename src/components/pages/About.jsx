@@ -11,19 +11,19 @@ function About() {
           {' '}
           React Front To Back
         </a>{' '}
-        Udemy course by
+        Udemy course being completed by
         <strong>
-          <a href='https://traversymedia.com'> Brad Traversy</a>
+          <a href='https://traversymedia.com'> Emmanuel Olure</a>
         </strong>
         .
       </p>
       <p className='text-lg text-gray-400'>
-        Version <span className='text-white'>1.0.0</span>
+        Version <span className='text-white'>1.1.1</span>
       </p>
       <p className='text-lg text-gray-400'>
         Layout By:
         <a className='text-white' href='https://twitter.com/hassibmoddasser'>
-          Hassib Moddasser
+          Brad Traversy
         </a>
       </p>
     </>
